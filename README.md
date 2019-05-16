@@ -8,7 +8,7 @@ cifar10.ipynb notebook contains my own architecture trained from scratch.
 resnet101.ipynb contains ResNet fine tuning notebook
 
 ### Final results: 
-**0.88 accuracy** on test set with own architecture, **0.97** with ResNet pretrained network.
+**0.88 accuracy** on test set with own architecture, **0.97** with ResNet pretrained network (trained on google colab)
 
 ## Requirements
 ```
