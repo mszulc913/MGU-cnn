@@ -3,7 +3,7 @@
 Experiments with CNN and CIFAR10
 <br><br>
 
-cifar10.ipynb notebook contains own architecture trained from scratch.
+cifar10.ipynb notebook contains my own architecture trained from scratch.
 <br>
 resnet101.ipynb contains ResNet fine tuning notebook
 
